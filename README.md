@@ -2,7 +2,7 @@ Hi,
 
 I’m @HelenFr0st.
 
-I draw the ideas, so you can share the big picture. Adding value to your projects with visual summaries of the keys ideas and discussions. Increasing engagement, accessibility and knowledge sharing.
+I draw the ideas, so you can share the big picture. Adding value to your projects with visual summaries of the key ideas and discussions. Increasing engagement, accessibility and knowledge sharing.
 
 I’m learning some Data Science skills (mostly Python at the moment), to draw the data and share the insights.
 
