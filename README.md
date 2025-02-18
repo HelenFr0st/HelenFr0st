@@ -2,11 +2,11 @@ Hi,
 
 I’m @HelenFr0st.
 
-I draw the ideas, so you can share the big picture. Adding value to your projects with visual summaries of the key ideas and discussions. Increasing engagement, accessibility and knowledge sharing.
+I draw the ideas, so you can see, and share the big picture. Adding value to your projects with visual summaries of the key ideas and discussions. Increasing engagement, accessibility and knowledge sharing.
 
 I’m learning some Data Science skills (mostly Python at the moment), to draw the data and share the insights.
 
-I’m looking to collaborate on learning and portfolio projects.
+I’m looking to collaborate on learning and portfolio projects, especially at the intersection of visual methods and tech.
 
 How to reach me:
 
